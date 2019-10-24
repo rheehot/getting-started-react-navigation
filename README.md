@@ -15,3 +15,7 @@ Code for [intro to React Navigation tutorial](https://hackernoon.com/getting-sta
 ## Expo
 
 You can also run this using Expo - check out [this repo](https://github.com/ricbermo/getting-started-react-navigation-expo).
+
+
+## blog
+https://hackernoon.com/getting-started-with-react-navigation-the-navigation-solution-for-react-native-ea3f4bd786a4
